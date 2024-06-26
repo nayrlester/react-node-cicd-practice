@@ -10,8 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "create-react-app": "^5.0.1",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "jest": "^32.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "description": ""
 }
